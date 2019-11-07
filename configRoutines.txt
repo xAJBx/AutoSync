@@ -1,0 +1,10 @@
+[Name_of_Job]
+SOURCE: /root/source ## Source file path
+DEST: /destination.route ## Destination path
+FREQ: 2 ## number of days
+START: 2019-10-02-03:00 ## Start Date
+END: 2050-09-30-03:00 ## End Date
+HOST: R710 ## Host name
+IP: 1.2.3.4 ## Host IP address
+USER: root ## User to execute
+
